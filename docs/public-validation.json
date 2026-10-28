@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-10-28T14:40:51.7260874+08:00",
+  "dataset": "Independently authored public demo bank; no original user question bank",
+  "questions": 8,
+  "exact_correct": 8,
+  "shuffled_choices_correct": 4,
+  "generated_ocr_cases": 7,
+  "generated_ocr_correct": 7,
+  "choice_type_guard": true,
+  "numeric_option_guard": true,
+  "cancellation": true,
+  "passed": true,
+  "release_archive_sha256": "505aa7d041a9b665e7b1672e714891c3a27585117330c9fde520ff337ffb95ee",
+  "scope": "Public demo self-test; not an accuracy guarantee for arbitrary screenshots."
+}

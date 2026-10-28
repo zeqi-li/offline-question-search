@@ -1,0 +1,15 @@
+# Private question banks and runtime output
+*.docx
+!examples/demo-bank.docx
+logs/
+verification/
+dist/
+artifacts/
+*.exe
+*.pdb
+*.log
+.vs/
+.vscode/
+__pycache__/
+Thumbs.db
+Desktop.ini
